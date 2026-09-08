@@ -1,4 +1,4 @@
-# CI [![Build status](https://ci.appveyor.com/api/projects/status/aw8ey8o3t5hhlw28?svg=true)](https://ci.appveyor.com/project/artem-ar888/api-ci)
+[![Java CI with Gradle](https://github.com/artem-ar888/api-ci/actions/workflows/gradle.yml/badge.svg)](https://github.com/artem-ar888/api-ci/actions/workflows/gradle.yml)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
